@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Hopnity-0.1.0";
 const contentToCache = [
-    "Build/itchio(Disabled).loader.js",
-    "Build/itchio(Disabled).framework.js",
-    "Build/itchio(Disabled).data",
-    "Build/itchio(Disabled).wasm",
+    "Build/docs.loader.js",
+    "Build/docs.framework.js",
+    "Build/docs.data",
+    "Build/docs.wasm",
     "TemplateData/style.css"
 
 ];
