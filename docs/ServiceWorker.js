@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Hopnity-0.1.0";
 const contentToCache = [
-    "Build/docs.loader.js",
-    "Build/docs.framework.js",
-    "Build/docs.data",
-    "Build/docs.wasm",
+    "Build/b6e786421e3da27490d3fc2a4bfc2e65.loader.js",
+    "Build/664a9a8fa2b64cbbcd40d29533abbc48.framework.js",
+    "Build/d411dfdc01383026fff1b4ef27a36cee.data",
+    "Build/9c3a12b1ed1e50974d698ce795244e57.wasm",
     "TemplateData/style.css"
 
 ];
